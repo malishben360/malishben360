@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elisha Benjamin
 - 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently Vue 3
+- 🌱 I’m currently learning Vue 3
 - 💞️ I’m looking to collaborate on any Vuejs, Laravel project
 - 📫 How to reach me malishben360@gmail.com
 
